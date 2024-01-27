@@ -9,6 +9,10 @@ Github のはじめの一歩としてやってみることを Tips としてま�
 
 https://docs.github.com/ja/get-started/quickstart/hello-world
 
+## 自分のGitHub ページを作るチュートリアルをやってみる
+
+https://github.com/skills/github-pages
+
 ## introduction-to-github をやってみる
 https://github.com/skills/introduction-to-github?tab=readme-ov-file
 
