@@ -13,6 +13,9 @@ https://docs.github.com/ja/get-started/quickstart/hello-world
 
 https://github.com/skills/github-pages
 
+## GitHub のプロフィールを魅力的な内容にパーソナライズする
+https://docs.github.com/ja/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/about-your-profile
+
 ## introduction-to-github をやってみる
 https://github.com/skills/introduction-to-github?tab=readme-ov-file
 
