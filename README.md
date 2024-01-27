@@ -9,6 +9,9 @@ Github のはじめの一歩としてやってみることを Tips としてま�
 
 https://docs.github.com/ja/get-started/quickstart/hello-world
 
+## introduction-to-github をやってみる
+https://github.com/skills/introduction-to-github?tab=readme-ov-file
+
 ## Github 認定資格の準備として学習コースをやってみる
 
 [GitHub資格認定プログラムが一般ユーザも利用可能に(2014-01-09) Gihyou.jp by技術評論社](https://gihyo.jp/article/2024/01/github-certifications)
