@@ -34,3 +34,9 @@ https://github.com/skills/introduction-to-github?tab=readme-ov-file
 [GitHub Advanced Security](https://learn.microsoft.com/ja-jp/collections/rqymc6yw8q5rey)
 
 [GitHub Administration](https://learn.microsoft.com/ja-jp/collections/mom7u1gzjdxw03)
+
+
+## 感想など
+このページをご覧になって GitHub を試してみた方がいらっしゃったら、ディスカッションへコメントいただけるとうれしいです。
+
+[このリポジトリのディスカッション](https://github.com/hedaytkhs/GitHubGetStarted/discussions)
